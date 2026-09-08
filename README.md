@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rooks00
 - 👀 I’m interested in breaking stuff. Also, some video games ;)
-- 🌱 I’m currently learning red teaming.
 - 📫 You can contact me on Twitter: @Rooks128
 
 <!---
